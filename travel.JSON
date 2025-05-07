@@ -1,0 +1,43 @@
+{
+    "tripName": "Curacao 2025",
+    "traveler": {
+      "name": "Alex Chavez",
+      "contact": {
+        "email": "stlblues36@yahoo.com",
+        "phone": "+1-314-341-3823"
+      }
+    },
+    "destinations": [
+      {
+        "location": "Willemstad",
+        "arrivalDate": "2025-07-08",
+        "departureDate": "2025-07-09",
+        "activities": [
+          {
+            "title": "Queen Emma Pontoon Bridge",
+            "time": "09:30 AM"
+          },
+          {
+            "title": "Fort Amsterdam",
+            "time": "12:45 PM"
+          }
+        ]
+      },
+      {
+        "location": "Landhuis Chobolobo",
+        "arrivalDate": "2025-07-10",
+        "departureDate": "2025-07-11",
+        "activities": [
+          {
+            "title": "Grote Knip",
+            "time": "8:45 AM"
+          },
+          {
+            "title": "Cas Abao",
+            "time": "1:30 PM"
+          }
+        ]
+      }
+    ]
+  }
+  
